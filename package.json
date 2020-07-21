@@ -1,5 +1,5 @@
 {
-  "name": "angular-electron",
+  "name": "pfv",
   "version": "8.0.0",
   "description": "Angular 10 with Electron (Typescript + SASS + Hot Reload)",
   "homepage": "https://github.com/maximegris/angular-electron",
@@ -92,5 +92,8 @@
   },
   "engines": {
     "node": ">=10.13.0"
+  },
+  "dependencies": {
+    "electron-winstaller": "4.0.1"
   }
 }

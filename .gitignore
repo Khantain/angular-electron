@@ -6,6 +6,7 @@
 /out-tsc
 /app-builds
 /release
+/installer
 main.js
 src/**/*.js
 !src/karma.conf.js
@@ -39,6 +40,7 @@ npm-debug.log
 testem.log
 /typings
 package-lock.json
+Squirrel.exe
 
 # e2e
 /e2e/*.js
